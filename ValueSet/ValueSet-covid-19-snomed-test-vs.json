@@ -6,7 +6,7 @@
     "version" : "1.1.6-1",
     "name" : "COVID19SNOMEDTestVS",
     "title" : "COVID-19 SNOMED CT Tests Value Set",
-    "status" : "active",
+    "status" : "draft",
     "date" : "2021-01-23T06:00:00+00:00",
     "publisher" : "NHS Digital",
     "contact":  [
