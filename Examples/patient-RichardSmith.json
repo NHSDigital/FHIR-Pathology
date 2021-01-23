@@ -1,6 +1,6 @@
 {
     "resourceType": "Patient",
-    "id": "123456",
+    "id": "richard-smith",
     "identifier": [
       {
         "extension": [
