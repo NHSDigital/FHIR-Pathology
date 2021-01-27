@@ -8,7 +8,6 @@
         }
     ],
     "status": "final",
-
     "category": [
         {
             "coding": [
@@ -25,11 +24,10 @@
         "coding": [
             {
                 "system": "http://snomed.info/sct",
-                "code": "1240581000000104",
-                "display": "SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result positive"
+                "code": "871562009",
+                "display": "Detection of Severe acute respiratory syndrome coronavirus 2 (observable entity)"
             }
-        ],
-        "text": "SARS-CoV-2-ORGY"
+        ]
     },
     "subject": {
         "reference": "Patient/richard-smith",
@@ -46,6 +44,16 @@
             "display": "PRESUME WE KNOW THIS ODS Code - MISSING"
         }
     ],
+    "valueCodeableConcept": {
+        "coding": [
+            {
+                "system": "http://snomed.info/sct",
+                "code": "1240581000000104",
+                "display": "SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) detection result positive"
+            }
+        ],
+        "text": "SARS-CoV-2-ORGY"
+    },
     "specimen": {
         "identifier": {
             "system": "https://fhir.nhs.uk/Id/SpecimenId",
