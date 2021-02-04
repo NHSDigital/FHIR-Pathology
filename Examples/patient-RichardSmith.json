@@ -19,6 +19,10 @@
         ],
         "system": "https://fhir.nhs.uk/Id/nhs-number",
         "value": "987123456"
+      },
+      {
+        "system": "https://fhir.nhs.uk/Id/nhs-login-sub",
+        "value": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
       }
     ],
     "name": [

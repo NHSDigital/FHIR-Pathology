@@ -54,10 +54,26 @@
         ],
         "text": "SARS-CoV-2-ORGY"
     },
+    "method" : {
+        "coding": [
+            {
+                "system": "http://snomed.info/sct",
+                "code": "1240461000000109",
+                "display": "Measurement of SARS-CoV-2 antibody (procedure)"
+            }
+        ]
+    },
     "specimen": {
         "identifier": {
             "system": "https://fhir.nhs.uk/Id/SpecimenId",
             "value": "eb89a392-5b20-11eb-ae93-0242ac130002"
         }
+    },
+    "device": { 
+        "identifier": {
+            "system": "https://fhir.nhs.uk/Id/Covid19-TestKit",
+            "value": "LFT"
+        },
+        "display": "Lateral Flow Test"
     }
 }
